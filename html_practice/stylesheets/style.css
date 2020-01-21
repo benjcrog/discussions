@@ -1,0 +1,14 @@
+h1{
+	color: #000000;
+	text-align: center;
+
+}
+
+h2{
+	color:#0000FF;
+	text-shadow: 2px 2px #000000;
+}
+
+ol.mich{
+	list-style-image: url('tinym.png');
+}
